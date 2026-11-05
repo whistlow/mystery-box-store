@@ -5,6 +5,66 @@
       "name": "BO3 Zombies - 200 Maps",
       "category": "Zombies",
       "url": "https://gofile.io/d/3z1tPy1x"
+    },
+    {
+      "id": "m6aed034435000",
+      "title": "Leviathan",
+      "url": "https://gofile.io/d/x1I4M0iv",
+      "part": {
+        "type": "zip",
+        "path": "x1I4M0iv/zm_leviathan.zip"
+      },
+      "cover": "https://images.steamusercontent.com/ugc/1037463529748105748/97A0CFD9796CE0BCE03848D9145A53370902BF79/",
+      "coverRel": "x1I4M0iv/zm_leviathan.zip|zm_leviathan/previewimage.png",
+      "size": 8369163465,
+      "pack": "x1I4M0iv",
+      "packId": "p6aed034434",
+      "added": 1793917764
+    },
+    {
+      "id": "m6aed034436001",
+      "title": "NUKETOWN ZOMBIES",
+      "url": "https://gofile.io/d/x1I4M0iv",
+      "part": {
+        "type": "zip",
+        "path": "x1I4M0iv/zm_nuked.zip"
+      },
+      "cover": "https://images.steamusercontent.com/ugc/14201564684471665280/66081FE48DD0F87DDA1383C4423ECD137D690369/",
+      "coverRel": "x1I4M0iv/zm_nuked.zip|zm_nuked/previewimage.png",
+      "size": 3758750054,
+      "pack": "x1I4M0iv",
+      "packId": "p6aed034434",
+      "added": 1793917764
+    },
+    {
+      "id": "m6aed034437002",
+      "title": "OCTOGONAL ASCENSION",
+      "url": "https://gofile.io/d/x1I4M0iv",
+      "part": {
+        "type": "zip",
+        "path": "x1I4M0iv/zm_octogonal.zip"
+      },
+      "cover": "https://images.steamusercontent.com/ugc/835832813002988052/AE032AFD6AD50B6B7F2750901474C4F5E77F1222/",
+      "coverRel": "x1I4M0iv/zm_octogonal.zip|zm_octogonal/previewimage.png",
+      "size": 1198447371,
+      "pack": "x1I4M0iv",
+      "packId": "p6aed034434",
+      "added": 1793917764
+    },
+    {
+      "id": "m6aed034438003",
+      "title": "Cheese Cube Unlimited V1.0",
+      "url": "https://gofile.io/d/x1I4M0iv",
+      "part": {
+        "type": "zip",
+        "path": "x1I4M0iv/zm_ccube.zip"
+      },
+      "cover": "https://images.steamusercontent.com/ugc/854981439929924116/45D821F5C87B84957163F1579D5F9F3B680B6A4A/",
+      "coverRel": "x1I4M0iv/zm_ccube.zip|zm_ccube/previewimage.png",
+      "size": 1356967448,
+      "pack": "x1I4M0iv",
+      "packId": "p6aed034434",
+      "added": 1793917764
     }
   ]
 }
